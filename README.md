@@ -14,8 +14,7 @@
 
 <table>
   <tr>
-    <td><h3>프론트엔드</h3></td>
-    <td><h3>Deployment</h3></td>
+    <td><h3> Frontend & Deployment</h3></td>
     <td><h3>커뮤니케이션</h3></td>
   </tr>
   <tr>
@@ -25,8 +24,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS_Modules-000000?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
