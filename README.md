@@ -1,7 +1,7 @@
 ## 안녕하세요, 신입 프론트엔트 개발자 류혜리입니다! 👋
 
 
-## 📌 Profile Links
+## 📌 Profile 
 - [이력서 보러가기](https://www.rallit.com/hub/resumes/1167882)
 - [포트폴리오 사이트](https://hyeri-front-portfolio.vercel.app/)
 
