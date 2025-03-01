@@ -3,7 +3,7 @@
 
 ## 📌 Profile 
 - [이력서 보러가기](https://www.rallit.com/hub/resumes/1167882)
-- [포트폴리오 사이트](https://hyeri-front-portfolio.vercel.app/)
+- [포트폴리오 사이트](https://next-portfolio-hyeri.vercel.app)
 
   
 ## 🎓 Education
